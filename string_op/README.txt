@@ -1,0 +1,1 @@
+字符串的一些基本操作函数:strstr(),strtok(),还有内存的一些基本操作函数:memcoy(),memmove(),
